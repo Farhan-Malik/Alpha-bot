@@ -1,5 +1,5 @@
 <div align="center">
-<a href="#"><img title="Alpha botV2" src="https://img.shields.io/badge/Alpha botV2-red?colorA=%24#FF0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Alpha botV1" src="https://img.shields.io/badge/Alpha botV2-red?colorA=%24#FF0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 </p>
 
 ```
-Alpha; Alpha UserBot,Made by sreezz-ai 
+Alpha; Alpha UserBot,Made by kaweesha chamod 
 
 
 
@@ -51,7 +51,7 @@ Alpha; Alpha UserBot,Made by sreezz-ai
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/85176770?v=4" width="200" height="200">
-  <h1>🐺 Alpha Bot-V2</h1>
+  <h1>🐺 Alpha Bot-V1</h1>
 </div>
 
 
